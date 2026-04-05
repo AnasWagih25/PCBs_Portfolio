@@ -40,10 +40,10 @@ PCBs_Portfolio/
 ```
 
 Each board folder contains:
-- `/schematics` — full schematic (PDF)
-- `/gerbers` — fabrication-ready Gerber files
-- `/bom` — Bill of Materials
-- `README.md` — board-specific notes, pinout, and usage
+- `/schematics` — Full schematic (PDF)
+- `/gerbers` — Fabrication-ready Gerber Files
+- `/KiCad` — KiCad Files
+
 
 ---
 
