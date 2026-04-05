@@ -106,7 +106,7 @@ Personal designs are licensed under **CC BY-SA 4.0**.
 
 Have a question about a board, want to collaborate, or need a custom design?
 
-📧 [your@email.com](mailto:anaswagih35@gmail.com)  
+📧 [Email](mailto:anaswagih35@gmail.com)  
 💼 [LinkedIn](www.linkedin.com/in/anas-wagih-9423a7232)  
 
 ---
