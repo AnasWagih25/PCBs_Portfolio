@@ -52,28 +52,28 @@ Each board folder contains:
 ### ESP Boards
 > Custom ESP8266 / ESP32 boards designed for embedded IoT applications with clean power regulation, optimized RF layout, and programmer-friendly interfaces.
 
-![esp-boards](gifs/esp_boards.gif)
+![esp-boards](gifs/ESP.gif)
 
 ---
 
 ### STM32 Boards
 > STM32-based development boards with custom peripherals, debug headers, and tailored footprints for specific use cases.
 
-![stm-boards](gifs/stm_boards.gif)
+![stm-boards](gifs/stm32.gif)
 
 ---
 
 ### Control Boards
 > Motor controllers, relay drivers, power management boards — built for real applications, not just breadboards.
 
-![control-boards](gifs/control_boards.gif)
+![control-boards](gifs/CONTROL.gif)
 
 ---
 
 ### Modules & Sensors
 > Reusable, stackable modules and sensor breakouts designed to drop into any project cleanly.
 
-![modules](gifs/modules.gif)
+![modules](gifs/MODULE.gif)
 
 ---
 
